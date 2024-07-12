@@ -16,7 +16,7 @@ export default function UTXOExplorer({ address }: { address: string}) {
       }
     }
     init()
-  }, [])
+  }, [address])
   
   return (
     <div>

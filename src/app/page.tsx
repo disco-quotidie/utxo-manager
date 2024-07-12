@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <div>
       <WalletConnect />
-      <UTXOExplorer address={"bc1qh2khfmdnaxaat7l7dk4ev5lxz48a8sjzee0cn2"} />
+      <UTXOExplorer address={"bc1p3x6mf7mvsjm0tuppa9rv64866vaam0fy60hlns5r3hrx0p782gfs9555ey"} />
     </div>
   );
 }
