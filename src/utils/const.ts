@@ -1,1 +1,0 @@
-export const MEMPOOL_API = `https://mempool.space/api`
